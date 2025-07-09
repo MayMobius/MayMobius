@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="logoV3.PNG" align="center" height="450" width="450" />
+<img src="logoV3.png" align="center" height="450" width="450" />
 </div>  
   
 
