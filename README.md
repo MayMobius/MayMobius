@@ -4,7 +4,7 @@
 <div align="center">
 <img src="logoV3.png" align="center" height="450" width="450" />
 </div>  
-  
+  <br/>
 
 <div align="center">
 <a href="https://github.com/https://github.com/MayMobius" target="_blank">
@@ -19,9 +19,9 @@
 
 
 ### Glad to see you here!  
-I am a Web/Front-End Developer who achieved my Master degree in Computer Science last year. Trying to learn more things to make myself more strong 😤. And I'm trying to find a job currently.
+I am a Web/Front-End Developer who achieved my Master's degree in Computer Science last year. Trying to learn more things to make myself more strong 😤. And I'm trying to find a job currently.
 
-I know my github doesn't look very good 😥, but I'm working on it. This was just my homework before, but now I'm going to make it better.  
+I know my GitHub doesn't look very good 😥, but I'm working on it. This was just my homework before, but now I'm going to make it better.  
   
 
 <br/>  
