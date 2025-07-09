@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://may-liu.com/logo.png" align="center" height="400" width="400" />
+<img src="logoV2.PNG" align="center" height="400" width="400" />
 </div>  
   
 
